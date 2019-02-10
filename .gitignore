@@ -1,5 +1,4 @@
 # Ignore the compiled output.
-dist/
 
 # Logs
 logs

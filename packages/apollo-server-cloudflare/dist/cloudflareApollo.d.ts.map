@@ -1,0 +1,1 @@
+{"version":3,"file":"cloudflareApollo.d.ts","sourceRoot":"","sources":["../src/cloudflareApollo.ts"],"names":[],"mappings":"AAAA,OAAO,EACL,cAAc,EAGf,MAAM,oBAAoB,CAAC;AAE5B,OAAO,EAAE,OAAO,EAAE,QAAQ,EAAO,MAAM,mBAAmB,CAAC;AAO3D,MAAM,WAAW,yBAAyB;IACxC,CAAC,GAAG,CAAC,EAAE,OAAO,GAAG,cAAc,GAAG,OAAO,CAAC,cAAc,CAAC,CAAC;CAC3D;AAED,wBAAgB,iBAAiB,CAC/B,OAAO,EAAE,cAAc,GAAG,yBAAyB,uCA8CpD"}
